@@ -47,11 +47,11 @@ function salectTopics() {
 
 console.log('Here are the topics we learned through Prework:');
 
-listTopics()
+listTopics();
 
 console.log('Which topic should we study first?');
 
-salectTopics()
+salectTopics();
 
 
 /*var shapes = ["triangle", "square", "pentagon", "circle"];
