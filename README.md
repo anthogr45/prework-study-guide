@@ -1,11 +1,13 @@
 # <Prework Study Guide>
 
+## Study Guide Webpage
+
 ## Description
 
 The Prework Study Guide project is a web application, it allows students to take notes of the main modules covered by the Pre-work of the Boot Camps.
 I dea was to create a dash board for the students to have short notes of the main topics of the course pre-work. by doing this execise I learened the basics of HTML, CSS, Git deploment and Java Script. There were few bugs which I faced when did my coding. However those were rectified by thoughrough debuging.
 
-## Table of Contents (Optional)
+## Table of Contents 
 
 HTML
 CSS
